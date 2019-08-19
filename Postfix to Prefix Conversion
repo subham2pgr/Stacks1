@@ -1,3 +1,5 @@
+Refer the NB Theory for understanding this program
+
 #include <iostream> 
 #include <stack> 
 using namespace std; 
